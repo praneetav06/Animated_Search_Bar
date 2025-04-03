@@ -1,4 +1,4 @@
-## Google Search Bar 
+Google Search Bar 
 
 ## Features
 - Animation using CSS
