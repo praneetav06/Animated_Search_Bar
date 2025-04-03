@@ -1,9 +1,9 @@
-Google Search Bar 
+# Google Search Bar 
 
-## Features
+# Features
 - Animation using CSS
 
-## Tech Stack 
+# Tech Stack 
 - HTML
 - CSS
 - JS
